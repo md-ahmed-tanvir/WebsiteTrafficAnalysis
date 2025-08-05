@@ -2,7 +2,7 @@
 
 A professional Power BI dashboard analyzing website visitor behavior, traffic sources, and key engagement KPIs using real-world web data.
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/snehez/WebsiteTrafficAnalysis/main/screenshot3.png)
+
 
 
 ## 📁 Files Included
@@ -20,9 +20,6 @@ A professional Power BI dashboard analyzing website visitor behavior, traffic so
 
 
 ## 👩‍💻 Made by
-**Sneha Ghosh**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sneha-ghosh-98aaa9337)
+**Md. Tanvir Ahmed**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mdtanvirahmeddev/)
 
-
-## 📌 Internship
-**Data Analytics Internship – AlfidoTech**
